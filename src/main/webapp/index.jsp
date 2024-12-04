@@ -12,8 +12,5 @@
 
 <h1>This is new line  added</h1>
 <h1>this is again new line</h1>
-<h1>this is 3rd line</h1>
-<h1>this is 4th line</h1>
-<h1>this is 5th line</h1>
 </body>
 </html>
